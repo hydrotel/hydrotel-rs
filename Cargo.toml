@@ -1,0 +1,12 @@
+[package]
+name = "hydrotel"
+version = "0.0.0"
+edition = "2021"
+description = "HydroTel SDK for Rust"
+homepage = "https://github.com/hydrotel/hydrotel-rs"
+repository = "https://github.com/hydrotel/hydrotel-rs"
+readme = "README.md"
+license-file = "README.md"
+keywords = ["hydrology", "telemetry"]
+
+[dependencies]
